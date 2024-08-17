@@ -21,6 +21,3 @@
 
 
 ![](https://raw.githubusercontent.com/klmnvan/klmnvan/output/github-contribution-grid-snake.svg)
-<p align="center">
-  <img src="/dist/metrics.classic.svg" alt="Language stats"  />
-</p>
