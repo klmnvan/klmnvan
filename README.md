@@ -7,6 +7,7 @@
 - Android: Jetpack Compose, Kotlin, MVVM, Retrofit, Ktor, Serialization, Hilt, Supabase, Glide
 - Kotlin: Corutines, Android, Native
 - C#: Avalonia, SOLID
+- C: Strings, Structures, Files
 - SQL: MySQL, PostgreSQL, SQLite, Function, Procedure, Transaction, Cursor, View, Trigger, Supabase
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klmnvan)](https://github.com/anuraghazra/github-readme-stats)
