@@ -1,13 +1,13 @@
 ## Klmnvan  
 
-Я разработчик, имеющий навыки в сферах: мобильная разработка, разработка настольных приложений, веб-разработка, разработка БД.  
+Я разработчик с опытом в различных областях, включая мобильную разработку, разработку настольных приложений, веб-разработку и работу с базами данных. В настоящее время я сосредоточен на мобильной разработке, изучаю Jetpack Compose и занимаюсь разработкой API на ASP.NET. Активно ищу стажировку в области мобильной разработки, чтобы применить свои навыки и продолжить профессиональный рост.
 
 ## Навыки
 
 - Android: Jetpack Compose, Kotlin, MVVM, Retrofit, Ktor, Serialization, Hilt, Supabase, Glide
 - Kotlin: Corutines, Android, Native
-- C#: Avalonia, SOLID, ASP.NET, Entity Framework, Moq, xUnit, Identity
-- C: Strings, Structures, Files
+- C#: Avalonia, SOLID, ASP.NET, Entity Framework, Moq, xUnit, Identity, Swagger
+- C: Strings, Structures, Files, Windows API, Linux, Processes, Threads, Clipboard, Windows Hooks, Registry
 - SQL: MySQL, PostgreSQL, SQLite, Function, Procedure, Transaction, Cursor, View, Trigger, Supabase
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klmnvan)](https://github.com/anuraghazra/github-readme-stats)
