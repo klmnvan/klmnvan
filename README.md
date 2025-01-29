@@ -10,7 +10,7 @@
 - C: Strings, Structures, Files, Windows API, Linux, Processes, Threads, Clipboard, Windows Hooks, Registry
 - SQL: MySQL, PostgreSQL, SQLite, Function, Procedure, Transaction, Cursor, View, Trigger, Supabase
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klmnvan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klmnvan)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Проекты  
 
